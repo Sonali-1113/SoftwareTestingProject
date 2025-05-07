@@ -6,19 +6,6 @@ This repository contains a curated collection of **manual testing projects**, in
 
 ---
 
-## 📁 Repository Structure
-
-
-Manual-Testing-Projects/
-├── Test_Plans/
-├── Test_Cases/
-├── Bug_Reports/
-├── Test_Reports/
-
-yaml
-Copy
-Edit
-
 - **Test_Plans/** – Contains high-level test planning documents.
 - **Test_Cases/** – Includes detailed test cases covering functional and UI tests.
 - **Bug_Reports/** – Sample defects with severity, priority, steps to reproduce, and status.
